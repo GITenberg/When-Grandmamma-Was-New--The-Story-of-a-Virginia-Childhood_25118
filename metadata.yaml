@@ -1,0 +1,40 @@
+_repo: When-Grandmamma-Was-New--The-Story-of-a-Virginia-Childhood_25118
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 25118-h/images/img.cover.jpg
+creator:
+  author:
+    agent_name: Harland, Marion
+    aliases:
+    - Hawes, Mary Virginia
+    - Terhune, Mary Virginia Hawes
+    - Terhune, Edward Payson, Mrs.
+    birthdate: 1830
+    deathdate: 1922
+    gutenberg_agent_id: '1818'
+    url: http://www.gutenberg.org/2009/agents/1818
+    wikipedia: http://en.wikipedia.org/wiki/Mary_Virginia_Terhune
+description: ''
+gutenberg_issued: '2008-04-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25118'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Cousins -- Juvenile fiction'
+- !lcsh 'Virginia -- Juvenile fiction'
+- !lcsh 'Christian life -- Juvenile fiction'
+- !lcsh 'Grandmothers -- Juvenile fiction'
+- !lcsh 'Country life -- Juvenile fiction'
+- !lcsh 'Conduct of life -- Juvenile fiction'
+- !lcsh 'Dolls -- Juvenile fiction'
+- !lcsh 'Slaves -- Juvenile fiction'
+- !lcsh 'Children and death -- Juvenile fiction'
+- !lcsh 'Children -- Conduct of life -- Juvenile fiction'
+title: 'When Grandmamma Was New: The Story of a Virginia Childhood'
+url: http://www.gutenberg.org/ebooks/25118

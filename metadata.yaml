@@ -16,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1818
     wikipedia: http://en.wikipedia.org/wiki/Mary_Virginia_Terhune
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/25118#When-Grandmamma-Was-New--The-Story-of-a-Virginia-Childhood
 gutenberg_issued: '2008-04-21'
 gutenberg_type: Text
 identifiers:
